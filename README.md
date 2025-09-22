@@ -5,17 +5,16 @@ Tandemloop stage-1: First Screening Test
 As the part of Tandemloop stage-1 : first screening test, I Have solved four basic problems using "Python Programming Language".
 Problem-1:
 Description: The Problem-1 Is to Write Code to implement simple class based Calculator with operations like addition, subtraction, multiplication and division.
-step1: Create a class as calculator.
-step2: Initialized inputs by constructor.
-a: float value from the user
-b: float value from the user
-op: which operation to be perform on both values (a,b) and it is string
+1. Create a class as calculator.
+2. Initialized inputs by constructor.
+ a: float value from the user
+ b: float value from the user
+ op: which operation to be perform on both values (a,b) and it is string
 
-Note: Here, op is given as("+","-","*","/") or ("Addition", "Subtraction", "Multiplication", "Division")
-
-step3: Checking the which operation to be perform by the user using conditional statements.
-step4: perform operation based on operation to be given
-step5: run program
+ Note: Here, op is given as("+","-","*","/") or ("Addition", "Subtraction", "Multiplication", "Division")
+3. Checking the which operation to be perform by the user using conditional statements.
+4. perform operation based on operation to be given
+5. run program
 inputs: a=1,b=2,op="Division" or "/"
 output: 0.5
 
